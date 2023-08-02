@@ -38,11 +38,11 @@
       "#B0B0B0"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#000000",
+      "#474848",
       "#B0B0B0"
     ],
     "INTERACTIVE_MUTED": [
-      "#000000",
+      "#474848",
       "#B0B0B0"
     ],
     "BACKGROUND_PRIMARY": [
@@ -54,7 +54,7 @@
       "#B0B0B0"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#B0B0B0",
+      "#474848",
       "#B0B0B0"
     ],
     "BACKGROUND_TERTIARY": [
