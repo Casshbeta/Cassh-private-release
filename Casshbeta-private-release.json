@@ -10,15 +10,15 @@
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#000000",
+      "#B0B0B0",
       "#B0B0B0"
     ],
     "HEADER_PRIMARY": [
-      "#000000",
+      "#B0B0B0",
       "#B0B0B0"
     ],
     "HEADER_SECONDARY": [
-      "#000000",
+      "#B0B0B0",
       "#B0B0B0"
     ],
     "TEXT_NORMAL": [
@@ -46,23 +46,23 @@
       "#B0B0B0"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000",
+      "#B0B0B0",
       "#B0B0B0"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
+      "#B0B0B0",
       "#B0B0B0"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#000000",
+      "#B0B0B0",
       "#B0B0B0"
     ],
     "BACKGROUND_TERTIARY": [
-      "#000000",
+      "#B0B0B0",
       "#B0B0B0"
     ],
     "BACKGROUND_ACCENT": [
-      "#000000",
+      "#B0B0B0",
       "#B0B0B0"
     ],
     "BACKGROUND_FLOATING": [
@@ -115,7 +115,7 @@
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "rgba(0, 0, 0, 0.1)",
-      "#000000"
+      "#B0B0B0"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "transparent",
@@ -135,7 +135,7 @@
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#000000",
+    "PRIMARY_DARK": "#B0B0B0",
     "PRIMARY_DARK_100": "#000000",
     "PRIMARY_DARK_200": "#000000",
     "PRIMARY_DARK_300": "#000000",
