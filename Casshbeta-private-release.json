@@ -10,99 +10,99 @@
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "HEADER_PRIMARY": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "HEADER_SECONDARY": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "TEXT_NORMAL": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "TEXT_MUTED": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "INTERACTIVE_NORMAL": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "INTERACTIVE_HOVER": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "INTERACTIVE_MUTED": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_PRIMARY": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_SECONDARY": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_TERTIARY": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_ACCENT": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_FLOATING": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "SCROLLBAR_THIN_TRACK": [
@@ -110,46 +110,46 @@
       "#B0B0B0"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "rgba(0, 0, 0, 0.1)",
-      "#B0B0B0"
+      "#000000"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "transparent",
       "#B0B0B0"
     ],
     "CHANNELS_DEFAULT": [
-      "#ed2828",
+      "#000000",
       "#B0B0B0"
     ],
     "TEXT_LINK": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ],
     "CHANNEL_ICON": [
-      "#B0B0B0",
+      "#000000",
       "#B0B0B0"
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#B0B0B0",
-    "PRIMARY_DARK_100": "#B0B0B0",
-    "PRIMARY_DARK_200": "#B0B0B0",
-    "PRIMARY_DARK_300": "#B0B0B0",
-    "PRIMARY_DARK_360": "#B0B0B0",
-    "PRIMARY_DARK_400": "#B0B0B0",
-    "PRIMARY_DARK_500": "#B0B0B0",
-    "PRIMARY_DARK_600": "#B0B0B0",
-    "PRIMARY_DARK_630": "#B0B0B0",
-    "PRIMARY_DARK_700": "#B0B0B0",
-    "PRIMARY_DARK_800": "#B0B0B0",
-    "PRIMARY_DARK_900": "#B0B0B0"
+    "PRIMARY_DARK": "#000000",
+    "PRIMARY_DARK_100": "#000000",
+    "PRIMARY_DARK_200": "#000000",
+    "PRIMARY_DARK_300": "#000000",
+    "PRIMARY_DARK_360": "#000000",
+    "PRIMARY_DARK_400": "#000000",
+    "PRIMARY_DARK_500": "#000000",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "PRIMARY_DARK_900": "#000000"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#B0B0B0"
+    "CHAT_GREY": "#171717"
   },
   "background": {
     "blur": 0.0,
